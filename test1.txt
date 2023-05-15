@@ -1,1 +1,2 @@
 I am trying to edit test1.txt file
+This is another text
